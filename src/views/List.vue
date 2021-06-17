@@ -1,9 +1,10 @@
 <template >
-  <v-container
+  <v-container style="padding-top: 0;"
   >
     <v-card
       class="mx-auto"
-      width="100%"
+      width="80%"
+      style="max-width:1024px;"
       height="100vh"
     >
 
